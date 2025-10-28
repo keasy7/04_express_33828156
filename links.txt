@@ -1,0 +1,5 @@
+home=https://www.doc.gold.ac.uk/usr/365/
+about=https://www.doc.gold.ac.uk/usr/365/about
+contact=https://www.doc.gold.ac.uk/usr/365/contact
+chain=https://www.doc.gold.ac.uk/usr/365/chain
+file=https://www.doc.gold.ac.uk/usr/365/file
